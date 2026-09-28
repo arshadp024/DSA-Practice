@@ -20,10 +20,6 @@ class Solution {
     }
 };
 ----------------------------------------------------Optimal----------------------------------------
-#include <stack>
-#include <vector>
-using namespace std;
-
 class Solution {
    private:
     vector<int> getPSEIndices(const vector<int>& arr, int n) {
